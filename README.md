@@ -2,7 +2,7 @@
 ## Introduction
 download and update blast database.
 
-## Requiremebt  
+## Requirement  
 + Linux
 + [BLAST+](https://www.ncbi.nlm.nih.gov/books/NBK279690/)(blastdbcmd)
 
